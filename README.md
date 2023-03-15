@@ -2,7 +2,6 @@
 
 - 💻 I’m currently working with Blazor.
 - 🌱 I'm currently learning .Net Core, Javascript.
-- 📝 I write articles on [Medium](https://medium.com/@dincersipka).
 - 📫 How to reach to me **dincersipka6@gmail.com**
 
 ---
