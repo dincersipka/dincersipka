@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi 👋, I'm Dinçer. 
 
-<!--
-**dincersipka/dincersipka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m currently working with Blazor.
+- 🌱 I'm currently learning .Net Core, Javascript.
+- 📫 How to reach to me **dincersipka6@gmail.com**
 
-Here are some ideas to get you started:
+---
+### Technologies:
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,dotnet,python,git" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Tools:
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,discord,ps" />
