@@ -6,8 +6,8 @@
 
 ---
 ### Technologies:
-<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,dotnet,python,git" />
+<img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,cs,dotnet,python,git" height="35px" />
 
 ---
 ### Tools:
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,discord,ps" />
+<img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,discord,ps" height="35px" />
