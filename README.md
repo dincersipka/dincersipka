@@ -3,8 +3,6 @@
 I'm Dinçer — a developer focused on building modern web applications using the **.NET ecosystem**.  
 Currently exploring **.NET Core** and **JavaScript**, with an interest in writing clean, efficient, and maintainable code.
 
-📫 You can contact me via: **dincersipka6@gmail.com**
-
 ---
 
 ## 💼 Tech Stack
