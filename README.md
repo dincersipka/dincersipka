@@ -3,17 +3,14 @@
 I'm Dinçer — a developer focused on building modern web applications using the **.NET ecosystem**.  
 Currently exploring **.NET Core** and **JavaScript**, with an interest in writing clean, efficient, and maintainable code.
 
----
 
 ## 💼 Tech Stack
 <img src="https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,python,git" height="35px" />
 
----
 
 ## 🛠️ Tools I Use
 <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,discord,ps" height="35px" />
 
----
 
 ## 🌐 Contact
 
