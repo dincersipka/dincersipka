@@ -7,7 +7,7 @@ Currently, I'm diving deep into **ASP.NET Core**, **Blazor**, **MAUI**, and **Ja
 
 ## 💼 Tech Stack
 
-<img src="http://skillicons.dev/icons?i=cs,dotnet,js,nodejs,react,html,css,bootstrap,python,git" height="35px" />
+<img src="http://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,react,html,css,bootstrap,python,redis,git" height="35px" />
 
 
 
