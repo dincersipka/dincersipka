@@ -7,13 +7,13 @@ Currently, I'm diving deep into **ASP.NET Core**, **Blazor**, **MAUI**, and **Ja
 
 ## 💼 Tech Stack
 
-<img src="http://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,react,html,css,bootstrap,python,redis,git" height="35px" />
+<img src="http://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,react,html,css,redis,git" height="35px" />
 
 
 
 ## 🛠️ Tools I Use
 
-<img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,discord,ps" height="35px" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,ps" height="35px" />
 
 
 
