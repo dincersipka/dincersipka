@@ -13,7 +13,7 @@ Currently, I'm diving deep into **ASP.NET Core**, **Blazor**, **MAUI**, and **Ja
 
 ## 🛠️ Tools I Use
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,ps" height="35px" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,ps,figma,xd" height="35px" />
 
 
 
